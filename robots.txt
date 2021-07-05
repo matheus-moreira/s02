@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gwbengenharia.com.br/sitemap.xml
